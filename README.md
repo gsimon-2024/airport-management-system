@@ -1,1 +1,2 @@
-# airport-management-system
+# Airport-Management-System
+This project was done as a part of the course Operating Systems. We implemented a working airport management system where planes can takeoff or land. Each plane will be assigned a runway according to the weight of the plane. An Air traffic controller module has been created to communicate between the various airports and planes. This project was written in C and we used message queues to communicate between the plane, air traffic control and airports
